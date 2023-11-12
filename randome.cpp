@@ -9,7 +9,7 @@ static const char alphanum[] =
 "1234567890"
 "QWERTYUIOPASDFGHJKLZXCVBNM"
 "qwertyuiopasdfghjklzxcvbnm"
-",.é;`<.;:_-^o"
+",.é;`<>(){}+-=!/$%?&*.;:_-^o"
 "\n \n\n   ";
 int size = sizeof(alphanum) - 1;
 
