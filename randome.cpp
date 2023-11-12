@@ -16,7 +16,7 @@ int size = sizeof(alphanum) - 1;
 int main()
 {
     std::cout << "color a\n";
-    int length = 500;
+    int length = /* **README.md** */;
    while(true){ 
     srand(time(0));
     for (int i = 0; i < length; i++)
